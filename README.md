@@ -16,4 +16,13 @@
    <img src="https://img.shields.io/badge/Say%20Thanks-!-1EAEDB.svg?style=flat-square"
      alt="saythanks" />
  </a>
+
+ <p>
+ <br>
+ How to compile:<br>
+
+```
+gcc ascii-converter.c -o "executable-file-name"
+```
+
 </div>
